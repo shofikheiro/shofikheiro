@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### Perkenalkan nama saya **Shofiyya Kheista Humairo**.
+
+Saya seorang **Machine Learning Learning Path Cohort** di [Bangkit Academy 2024](https://grow.google/intl/id_id/bangkit/?tab=machine-learning).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/shofiyyakheistahumairo/)ku ya.
 <!--
 **shofikheiro/shofikheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
