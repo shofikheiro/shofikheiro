@@ -1,12 +1,12 @@
-<!-- **!!This Page in Under Construction!!** -->
+<!-- **!!This Page in Under Construction!!
 
 ## Hi there 👋
 
 ### Perkenalkan nama saya **Shofiyya Kheista Humairo**.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedinku](https://www.linkedin.com/in/shofiyyakheistahumairo/) ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn-ku](https://www.linkedin.com/in/shofiyyakheistahumairo/) ya.
 
-### Github Statistic
+## Github Statistic
 <p align="left">
 <a href="https://github.com/shofikheiro">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shofikheiro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
