@@ -1,12 +1,10 @@
-**!!This Page in Under Construction!!**
+## **!!This Page in Under Construction!!**
 
 ## Hi there 👋
 
 ### Perkenalkan nama saya **Shofiyya Kheista Humairo**.
 
-Saya seorang **Machine Learning Learning Path Cohort** di [Bangkit Academy 2024](https://grow.google/intl/id_id/bangkit/?tab=machine-learning).<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/shofiyyakheistahumairo/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedinku](https://www.linkedin.com/in/shofiyyakheistahumairo/) ya.
 
 ### Github Statistic
 <p align="left">
