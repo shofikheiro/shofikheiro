@@ -1,10 +1,6 @@
-<!-- **!!This Page in Under Construction!!
+<!-- **!!This Page in Under Construction!! -->
 
-## Hi there 👋
-
-### Perkenalkan nama saya **Shofiyya Kheista Humairo**.
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn-ku](https://www.linkedin.com/in/shofiyyakheistahumairo/) ya.
+# Hi, I'm Shofi 👋
 
 ## Github Statistic
 <p align="left">
