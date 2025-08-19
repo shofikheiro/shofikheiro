@@ -2,8 +2,7 @@
 
 # Hi, I'm Shofi 👋
 
-## Github Statistic
-![Shofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shofikheiro&show_icons=true&theme=transparent)
+![Shofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shofikheiro&show_icons=true)
 <!--
 **shofikheiro/shofikheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
